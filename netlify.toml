@@ -1,8 +1,17 @@
-[build]
+[epicfxdbot.com]
   command = "npm run build"
   publish = "dist"
 
-[[redirects]]
+[[<button id="loginBtn">Login with Deriv</button>
+
+<script>
+const APP_ID = "YOUR_APP_ID";
+
+document.getElementById("loginBtn").onclick = () => {
+    window.location.href =
+    `https://oauth.deriv.com/oauth2/authorize?app_id=${APP_ID}`;
+};
+</script>]]
   from = "/*"
   to = "/index.html"
   status = 200
