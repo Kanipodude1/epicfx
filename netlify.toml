@@ -1,4 +1,4 @@
-[epicfxdbot.com]
+[epicfx trading]
   command = "npm run build"
   publish = "dist"
 
