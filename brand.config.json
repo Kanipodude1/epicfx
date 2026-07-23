@@ -1,11 +1,11 @@
 {
-    "brand_name": "YourBrand",
-    "brand_domain": "yourbrand.com",
+    "brand_name": "epicfx",
+    "brand_domain": "epicfx.trading",
     "brand_hostname": {
-        "staging": "staging.yourbrand.com/dashboard",
-        "production": "yourbrand.com/dashboard"
+        "staging": "staging.epicfx trading/dashboard",
+        "production": "epicfx trading/dashboard"
     },
-    "domain_name": "YourBrand.com",
+    "domain_name": "epicfx trading",
     "colors": {
         "primary": "#3B82F6",
         "secondary": "#64748b",
